@@ -1,0 +1,13 @@
+#image {
+  width: 400px;
+  height: 300px;
+  background-color: #f0f0f0;
+  text-align: center;
+  line-height: 300px;
+  border: 1px solid #ccc;
+}
+.thumbnail {
+  width: 100px;
+  margin: 10px;
+  cursor: pointer;
+}
